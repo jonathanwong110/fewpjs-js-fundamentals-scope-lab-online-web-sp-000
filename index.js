@@ -17,6 +17,5 @@ function add2(n) {
   return n + two
 
   // Feel free to move things around!
-  const n = 1000;
   two = 2
 }
