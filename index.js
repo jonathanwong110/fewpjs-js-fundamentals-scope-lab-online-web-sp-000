@@ -1,4 +1,4 @@
-animal = "cat";
+const animal = "cat";
 
 function myAnimal() {
   const animal = 'dog';
@@ -9,8 +9,6 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  const animal = "cat";
-  console.log('animal', animal);
   return animal;
 }
 
