@@ -13,7 +13,8 @@ function yourAnimal() {
   return animal
 }
 
-function add2(n) {
+function add2() {
+  const n = "1000";
   return n + two
 
   // Feel free to move things around!
